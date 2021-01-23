@@ -1,0 +1,45 @@
+img {
+	width : 500;
+	border:4px solid blue ; 
+}
+body {
+	background-color: pink;
+	font-family: Arial;
+}
+
+.orange {
+	color: orange;
+}
+
+.red {
+	color: red;
+}
+.purple {
+	color: purple;
+}
+.black {
+	color: black;
+}
+.green {
+	color: green;
+}
+.blue {
+	color: blue;
+}
+
+.grey {
+	color: grey;
+}
+.bold gold {
+	color: gold;
+}
+
+.bigFont{
+	font-size: 22px;
+}
+
+#specialStyle {
+	width 30%;
+	border: 2px solid blue;
+	background-color: yellow;
+}
